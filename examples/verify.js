@@ -6,13 +6,13 @@
 
 Your submission results compared to the expected:
 
-                 ACTUAL                                 EXPECTED                
+                 ACTUAL                                 EXPECTED
 ────────────────────────────────────────────────────────────────────────────────
 
-   "CHANGELOG.md"                      ==    "CHANGELOG.md"                     
-   "LICENCE.md"                        ==    "LICENCE.md"                       
-   "README.md"                         ==    "README.md"                        
-   ""                                  ==    ""                                 
+   "CHANGELOG.md"                      ==    "CHANGELOG.md"
+   "LICENCE.md"                        ==    "LICENCE.md"
+   "README.md"                         ==    "README.md"
+   ""                                  ==    ""
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -35,10 +35,10 @@ Your submission results compared to the expected:
 
     var fs = require('fs')
     var path = require('path')
-    
+
     var folder = process.argv[2]
     var ext = '.' + process.argv[3]
-    
+
     fs.readdir(folder, function (err, files) {
       if (err) return console.error(err)
       files.forEach(function (file) {

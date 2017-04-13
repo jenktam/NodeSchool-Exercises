@@ -53,3 +53,17 @@ $ code verify.js
 // 1 line substitute to create and open printed verify information from learnyounodein VSCode
 learnyounode verify program.js > verify-again.js && code verify-again.jsjen@jen-GE72-2QD ~/Documents/Dev/learnNode $ rm printToFile
 
+▪Spearheaded Key Tracking Initiative across 13 sites, strengthening information security and improving accountability methodologies
+▪Reinvented way commercial loans were documented and managed by developing an more user-friendly and interactive Request form saving my department time, errors, and $100,000 annually.
+▪Developed process for submitting loan invoices into CashPro Credit portal, boosting client satisfaction 70%
+▪Created a excel macro script, which tracked each employee's daily performance and then consolidated the data by teams. This compilation effectively influenced hiring/termination plan amongst 60 associates and allowed team to understand where additional training was needed.
+▪Built an international real-time Event Management repository tool on SharePoint, which allowed teams to communicate, track, and post recovery plans with each other during emergency occasions
+▪Led bank-wide Windows 7 operating system conversion for 900 associates across seven teams and managed vendor partnership
+▪Leader of SharePoint intranet sites where I designed sites, recreated architectures, migrated sites, and controlled user access
+
+
+▪Enrolled in Fullstack, which is an accelerated fullstack web development school
+▪Focuses on JavaScript, Node.js, Express, MongoDB, Angular.js, HTML/CSS, Git, Test-Driven Development, and Object-Oriented Programming
+
+Enrolled in Fullstack, an accelerated fullstack web development school
+Specializes in Javascript, Node.js, Express, MongoDB, Angular.js, HTML/CSS, Test-Driven Development, Object-Oriented Programming, and Git
